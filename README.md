@@ -13,4 +13,4 @@ Developing code for accurate, efficient, and simple to set-up first-principles m
 
 ### :bulb: More information
 
-You can find up-to-date contact details and more details about my work at [jcwomack.com](jcwomack.com) :computer_mouse:
+You can find up-to-date contact details and more information about my work at [jcwomack.com](jcwomack.com) :computer_mouse:
