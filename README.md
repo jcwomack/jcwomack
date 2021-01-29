@@ -1,9 +1,9 @@
 ## :wave: Hello world :earth_africa:
 
-I'm James C. Womack. As a [Research Software Engineer (RSE)](https://society-rse.org/), I develop robust software to solve research problems. My academic background is in computational chemistry with a focus on developing software and methods for simulating molecules and materials at the quantum level.
+I'm James C. Womack. As a [Research Software Engineer (RSE)](https://society-rse.org/), I develop robust software to solve research problems. My academic background is in computational chemistry and my current focus is developing software and methods for simulating molecules and materials at the quantum level.
 
 ### :wrench: Currently working on
-Developing code for accurate, efficient, and simple to set-up first-principles molecular dynamics simulations using [Entos Qcore](https://www.entos.ai/) an efficient, modern quantum chemistry package (written in C++17 with TBB parallelism)
+Developing code for accurate, efficient, and simple to set-up first-principles molecular dynamics simulations using [Entos Qcore](https://www.entos.ai/), a modern quantum chemistry package written in C++17 with TBB parallelism
 
 ### :gear: Projects I have worked on
 * [ONETEP](https://onetep.org/), a package for performing large-scale quantum chemistry calculations with linear-scaling computational cost (Fortran 2003, MPI+OpenMP)
