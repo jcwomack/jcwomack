@@ -10,7 +10,7 @@ My current role is as RSE support specialist at the [University of Bristol Advan
 * [ONETEP](https://onetep.org/), a package for performing large-scale quantum chemistry calculations with linear-scaling computational cost (Fortran 2003, MPI+OpenMP)
 * [CASTEP](http://www.castep.org/), a widely-used quantum chemistry and materials modelling package (Fortran 95, MPI)
 * [DL_MG](http://dlmg.org), an open-source multigrid Poisson solver library used in ONETEP and CASTEP (Fortran, MPI+OpenMP)
-* [Intception](http://intception.net), an open-source package that generates code for evaluating common integrals in quantum chemistry from an abstract mathematical specification (Python, generates C)
+* [Intception](https://intception-code-generator.github.io/), an open-source package that generates code for evaluating common integrals in quantum chemistry from an abstract mathematical specification (Python, generates C)
 
 ### :bulb: More information
 
