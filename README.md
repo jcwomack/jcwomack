@@ -17,4 +17,4 @@ I am currently working as an AI Supercomputing Infrastructure Engineer at the [B
 
 ## :bulb: More information
 
-You can find more information about my skills, background, and publications on [LinkedIn](www.linkedin.com/in/jamescwomack), [ORCID](https://orcid.org/0000-0001-5497-4482), and [Google Scholar](https://scholar.google.com/citations?user=JDD8icgAAAAJ).
+You can find more information about my skills, background, and publications on [LinkedIn](https://www.linkedin.com/in/jamescwomack), [ORCID](https://orcid.org/0000-0001-5497-4482), and [Google Scholar](https://scholar.google.com/citations?user=JDD8icgAAAAJ).
