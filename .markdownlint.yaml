@@ -1,0 +1,8 @@
+default: true
+MD013: false
+MD014: false
+
+# Allow duplicate headings that are not siblings, different sections can have
+# identical subheadings
+MD024:
+  siblings_only: true
