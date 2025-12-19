@@ -4,7 +4,7 @@ I'm James C. Womack. As a research software and infrastructure engineer, I build
 
 ## :wrench: Currently working on
 
-I am currently working as an AI Supercomputing Infrastructure Engineer at the [Bristol Centre for Supercomputing (BriCS)](https://www.bristol.ac.uk/research/centres/bristol-supercomputing/) developing and operating infrastructure and scalable software platforms for BriCS's supercomputing facilities, including Isambard-AI and Isambard 3.
+I am currently an AI Supercomputing Infrastructure Engineer at the [Bristol Centre for Supercomputing (BriCS)](https://www.bristol.ac.uk/research/centres/bristol-supercomputing/). My role is focused on the development and operation of infrastructure and scalable software platforms for BriCS's supercomputing facilities, including Isambard-AI and Isambard 3.
 
 ## :gear: Projects and services I have worked on
 
